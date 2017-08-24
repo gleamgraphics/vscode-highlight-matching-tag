@@ -41,20 +41,20 @@
                 "highlight-matching-tag.leftStyle": {
                     "type": "object",
                     "default": {
-                        "borderWidth": "0 0 0 1px",
-                        "borderStyle": "dotted",
-                        "borderColor": "white",
-                        "borderRadius": "5px"
+                        "borderWidth": "1px",
+                        "borderStyle": "solid",
+                        "borderColor": "green",
+                        "borderRadius": "8px"
                     },
                     "description": "Style to use for left side of tag"
                 },
                 "highlight-matching-tag.rightStyle": {
                     "type": "object",
                     "default": {
-                        "borderWidth": "0 1px 0 0",
-                        "borderStyle": "dotted",
-                        "borderColor": "white",
-                        "borderRadius": "5px"
+                        "borderWidth": "1px",
+                        "borderStyle": "solid",
+                        "borderColor": "green",
+                        "borderRadius": "8px"
                     },
                     "description": "Style to use for right side of tag"
                 }
